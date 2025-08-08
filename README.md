@@ -51,7 +51,7 @@ I am Md. Mosaddek Hossain Sumon, a dedicated MERN Stack Web Developer passionate
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhsumon0174&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhsumon0174&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhsumon0174&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhsumon0174&theme=default) 
 
 ---
 
