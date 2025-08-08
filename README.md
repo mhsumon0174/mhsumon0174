@@ -44,7 +44,7 @@ I am Md. Mosaddek Hossain Sumon, a dedicated MERN Stack Web Developer passionate
 ### 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mosaddek-hossain-sumon-144314148/)  
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801744508060)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourgithubusername)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mhsumon0174)  
 
 ---
 
